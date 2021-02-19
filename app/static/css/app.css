@@ -1,3 +1,48 @@
 body {
     padding-top: 5rem;
+    background-color:#ffff;
+}
+
+head{
+    background-color: black;
+
+}
+.container{
+    background-color:#ffff;
+    color:black;
+    padding: 50px;
+}
+
+.my_form1{
+    padding: 30px;
+    width: 100%;
+    
+}
+
+.my_form2{
+    padding: 30px;
+    width: 100%;
+    
+}
+
+.my_form3{
+    padding: 30px;
+    width: 100%;
+    
+}
+
+.my_form4{
+    padding: 30px;
+    width: 100%;
+    
+}
+.my_form-cont{
+    width: 50%;
+}
+
+.btn.btn-primary{
+margin-left: 30px;
+}
+.sz{
+    font-size: 21px;
 }
